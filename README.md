@@ -3,7 +3,7 @@ Summary and notes of my university subject Digital Forensics.
 In this subject, we conduct forensic analysis on digial storage devices and recover evidence whether it involves software, browsers or hardware to support or oppose a hypothesis before a criminal court. We investigate into scenarios to determine if intrusion took place and what aspects of the model were modified or damaged.
 
 # Structure
-* Introduction to Forensics
+* [Introduction to Forensics](https://github.com/umdy/Digital-Forensics/tree/main/Introduction%20to%20Forensics)
 * Forensic Cases
 * Web Forensics
 * Network Forensics
